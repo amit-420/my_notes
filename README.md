@@ -13,7 +13,6 @@
 * [Lecture 4](https://drive.google.com/file/d/1-IPk4ds2ViOqdMbADoX5V1A7DX5BTBUc/view?usp=sharing)
 * [Lecture 5](https://drive.google.com/file/d/1-RrcxucSNt2LX03bbEaDDH4RO-crgyQl/view?usp=sharing)
 * [Assignment 2](https://drive.google.com/file/d/10ab-FZ-gn2XOzFYDWpDHQ4PrGR9a7fXh/view?usp=sharing)
-* [Lecture 6](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/ryKChhJsw)
 
 
 ## Control of mobile robots: <a name="control_of_mobile_robots"></a>
@@ -23,5 +22,5 @@
 * [Week 3.4-3.8](https://drive.google.com/file/d/10IKByZ57_hTeyh7r4A-sGBF19zl4Ktri/view?usp=sharing)
 
 
-## 3. Algebra OCW:<a name="algebra"></a>
+## Algebra OCW:<a name="algebra"></a>
 * 
