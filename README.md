@@ -16,6 +16,7 @@
 * [Lecture 6](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/ryKChhJsw), [Doubts](https://docs.google.com/document/d/10vKvOOdXjvfFFnDEf3KR9lIRMgW8VWhJwyXPmKey8oY/edit?usp=sharing)
 * [Lecture 7](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/BkD0C7c2D), [Doubts](https://docs.google.com/document/d/1ddiSp29-8lxNCESfYSx5l6fQIZI9X4WFMXLdSHu3g6E/edit?usp=sharing)
 * [Lecture 8](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/S1IXAxChv), [Doubts](https://docs.google.com/document/d/1qXZQsuQnfmAQQzUcFut3iWXclquO9pa56HKDaqFDR1w/edit#)
+* [Assignment 3](https://colab.research.google.com/drive/1e3lskXsslYE49sK134CnhIG2z6c4LvHY?usp=sharing)
 * [Lecture 10](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/S16ctrX6w), [Doubts](https://docs.google.com/document/d/1WpZl42JqZE-SeKaSsuoFKnD-LImn8xTVwvd6gHK932s/edit)
 
 
