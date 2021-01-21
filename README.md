@@ -18,6 +18,9 @@
 * [Lecture 8](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/S1IXAxChv), [Doubts](https://docs.google.com/document/d/1qXZQsuQnfmAQQzUcFut3iWXclquO9pa56HKDaqFDR1w/edit#)
 * [Assignment 3](https://colab.research.google.com/drive/1e3lskXsslYE49sK134CnhIG2z6c4LvHY?usp=sharing)
 * [Lecture 10](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/S16ctrX6w), [Doubts](https://docs.google.com/document/d/1WpZl42JqZE-SeKaSsuoFKnD-LImn8xTVwvd6gHK932s/edit)
+* [Lecture 11](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/BkpIeF-0P)
+* [Lecture 12](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/ryLjzuFCw)
+* [Assignment 4](https://colab.research.google.com/drive/1DSsYgk6Vvx5kjpM1qXgBt-r8R6EUeGVu?usp=sharing)
 
 
 ## Control of mobile robots: <a name="control_of_mobile_robots"></a>
