@@ -23,6 +23,9 @@
 * [Lecture 12](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/ryLjzuFCw)
 * [Assignment 5](https://drive.google.com/file/d/18Mzi2wv9ZKXBzjj1-yYnerS0xy778D_D/view?usp=sharing), [Code](https://colab.research.google.com/drive/1Thf-7HKDhJr7dARQg1gUZMe_99sjouhi?usp=sharing)
 * [Lecture 13](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/SkFyYE2Ju)
+* [Lecture 14](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/Hksusuayd)
+* [Lecture 15 & 16](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/HJATYXxeu)
+* [Assignment 6](https://drive.google.com/file/d/194YZ8KRO7yBL9voeEpzEHvCVls1dyfpk/view?usp=sharing)
 
 
 
