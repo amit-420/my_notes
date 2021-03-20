@@ -1,6 +1,6 @@
 # My Notes
 
-[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit-420)](https://github.com/amit-420/github-readme-stats)
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit-420&show_icons=true&theme=radical)](https://github.com/amit-420/github-readme-stats)
 
 ### Table of Contents:
 1. [Ossuma khatib lecture series](#khatib)
