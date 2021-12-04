@@ -41,3 +41,4 @@
 * [Lecture 6 Column space and null matrix](https://drive.google.com/file/d/19551E3fo3sxuOX-7lSUtqdStF9f521cu/view?usp=sharing)
 * [Lecture 7 Solving Ax = 0](https://drive.google.com/file/d/19LcHpPmHl1WHgLqxT_gBcjd0CKk-neY-/view?usp=sharing)
 * [Lecture 8 Solving Ax = b, Row reduced form](https://drive.google.com/file/d/19Dez9HhgP2MOxp6p2t77PZ77ouAav1sd/view?usp=sharing)
+* [Lecture 17 Orthogonal Matrices and Gram-shmidt](https://drive.google.com/file/d/1zjvj8zkSfYrr8wE22H028fgqet0GCf-2/view?usp=sharing)
