@@ -42,3 +42,6 @@
 * [Lecture 7 Solving Ax = 0](https://drive.google.com/file/d/19LcHpPmHl1WHgLqxT_gBcjd0CKk-neY-/view?usp=sharing)
 * [Lecture 8 Solving Ax = b, Row reduced form](https://drive.google.com/file/d/19Dez9HhgP2MOxp6p2t77PZ77ouAav1sd/view?usp=sharing)
 * [Lecture 17 Orthogonal Matrices and Gram-shmidt](https://drive.google.com/file/d/1zjvj8zkSfYrr8wE22H028fgqet0GCf-2/view?usp=sharing)
+* [Lecture 18 Propertise of determinents](https://drive.google.com/file/d/1DUmPD6I8s1l0Ve1K6TzwJinkJylXEga0/view?usp=sharing)
+* [Lecture 19 Determinent Formulas and Cofactors](https://drive.google.com/file/d/1-Nm5Z0LLQSYx2i45JQjewI6XHnW_z3bY/view?usp=sharing)
+* [Lecture 20 Cramers Rule, Inverse Matrix, Volume](https://drive.google.com/file/d/1-MhC-Rez85BnsAojldaLgvPfiXraL1lg/view?usp=sharing)
