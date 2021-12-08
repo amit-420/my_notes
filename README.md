@@ -5,6 +5,7 @@
 1. [Ossuma khatib lecture series](#khatib)
 2. [Control of mobile robots](#control_of_mobile_robots)
 3. [Algebra OCW](#algebra)
+4. [Data Structure](https://hackmd.io/@xiXDoXWrRj6NV7wvHFhBqQ/r18I1AulK)
 
 
 ## Ossuma khatib lecture series <a name="khatib"></a>
