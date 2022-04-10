@@ -36,6 +36,7 @@
 * [Week 3.1](https://drive.google.com/file/d/1-vers471cSWQ91mhiZeYtWIp69bxpybe/view?usp=sharing)
 * [Week 3.2-3.3](https://drive.google.com/file/d/109-C3QB8fiLAoHCjtEFYTmguNo4_cqyA/view?usp=sharing)
 * [Week 3.4-3.8](https://drive.google.com/file/d/10IKByZ57_hTeyh7r4A-sGBF19zl4Ktri/view?usp=sharing)
+* [Week 3.8-4.4](https://drive.google.com/file/d/1JQIc2oxE0Q2lSxBM0NK2jikP2iv13NIL/view?usp=sharing)
 
 
 ## Algebra OCW:<a name="algebra"></a>
