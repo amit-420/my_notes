@@ -39,7 +39,8 @@
 * [Week 3.8-4.4](https://drive.google.com/file/d/1JQIc2oxE0Q2lSxBM0NK2jikP2iv13NIL/view?usp=sharing)
 
 
-## Algebra OCW:<a name="algebra"></a>
+## Algebra OCW: ( [Gilbert Strang lecture series](https://youtube.com/playlist?list=PLE7DDD91010BC51F8&si=yQH1k3CuYtdedtbC)) <a name="algebra"></a>
+* [Updated link](https://drive.google.com/drive/folders/0B76XkdmhrJYKfmk2aWtBVTIwVDAzNG5IUUk1TFU4cjdjUVpRM3hMXzdJQWUtd1VMLTZIUkE?resourcekey=0-wrafNGrd0nI56HdU5T4OnA&usp=sharing)
 * [Lecture 6 Column space and null matrix](https://drive.google.com/file/d/19551E3fo3sxuOX-7lSUtqdStF9f521cu/view?usp=sharing)
 * [Lecture 7 Solving Ax = 0](https://drive.google.com/file/d/19LcHpPmHl1WHgLqxT_gBcjd0CKk-neY-/view?usp=sharing)
 * [Lecture 8 Solving Ax = b, Row reduced form](https://drive.google.com/file/d/19Dez9HhgP2MOxp6p2t77PZ77ouAav1sd/view?usp=sharing)
